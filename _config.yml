@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Shaurya Gupta
+bio: 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,11 +12,11 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: shauryab98.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -30,39 +30,34 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: shauryab98 # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: shauryab98
+twitter: shauryab98
 # google: mygoogle
-# instagram: myinstagram
+instagram: shauryab98
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: shauryab98
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+github: shauryab98
+stackoverflow: 7044681/shauryab98
+quora: shauryab98
 # reddit: username
-medium: medium
+medium: shauryab98
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: shauryab98@outlook.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    shaurya:
+        name: Shaurya Gupta
+        bio: 
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: shauryab98
+    
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -93,7 +88,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
