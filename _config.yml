@@ -1,6 +1,6 @@
 
 # SEO settings
-title: "Shaurya Gupta"
+title: "Shaurya's Blog"
 title2: "" # default: ""
 description: "Shaurya Gupta's Blog"
 keywords: "Shaurya, Blog, Competitive, Programming, Machine, Learning, Development"
@@ -31,7 +31,7 @@ sass:
 author:
   name     : "Shaurya Gupta"
   job      : "Sophomore at IIT Patna"
-  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
+  bio      : ""
   thumb    : /images/author.jpg
   email    : shauryab98@gmail.com
   url      : http://shauryab98.github.io
