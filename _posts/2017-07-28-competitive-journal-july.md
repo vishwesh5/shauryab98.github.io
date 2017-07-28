@@ -130,7 +130,7 @@ Solved C
 
 #### July 23
 * [HackerEarth IndiaHacks Wildcard](https://www.hackerearth.com/challenge/competitive/indiahacks-2017-programming-qualifier-wildcard/problems/) - Solved 3
-* [Codechef Cook-Off 84](https://www.codechef.com/COOK84) - Solved 3/5 ``1996`` $\rightarrow$ ``2033``
+* [Codechef Cook-Off 84](https://www.codechef.com/COOK84) - Solved 3/5 (Contest Unrated)
 
 #### July 25
 * Virtual **Codeforces 356 Div. 1** - Solved [679A](http://codeforces.com/contest/679/problem/A)
