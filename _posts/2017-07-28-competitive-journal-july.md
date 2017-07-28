@@ -135,7 +135,7 @@ Solved C
 * Virtual **Codeforces 356 Div. 1** - Solved [679A](http://codeforces.com/contest/679/problem/A)
 * Solved [Codeforces 679B](http://codeforces.com/contest/679/problem/B)
 * Solved [Codeforces 679C](http://codeforces.com/contest/679/problem/C)
-* Team Virtual - WA on test 1 on all 3 attempted -\_-
+* Team Virtual - WA on test 1 on all 3 attempted -\_-. Turns out we had to use file i/o.
 * Solved Topcoder SRM 711 Div 1 Easy
 
 #### July 26
