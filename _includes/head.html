@@ -110,4 +110,7 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
   </script>
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
 </head>
