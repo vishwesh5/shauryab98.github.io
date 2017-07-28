@@ -6,9 +6,6 @@ comments: true
 keywords: "competitive programming, journal"
 ---
 
-
-# Competitive Programming Journal (June - July)
-
 #### Ratings
 * Codeforces - ``1652``
 * Codechef - ``1852``
