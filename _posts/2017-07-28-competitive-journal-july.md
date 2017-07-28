@@ -1,10 +1,4 @@
----
-layout: post
-title: "Competitive programming journal June - July 2017"
-description: "Journal tracking my competitive programming related activities in July 2017"
-comments: true
-keywords: "competitive programming, journal"
----
+# Competitive Programming Journal (June - July)
 
 #### Ratings
 * Codeforces - ``1652``
@@ -22,7 +16,7 @@ keywords: "competitive programming, journal"
 #### June 22
 * Read [Topcoder game theory](https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/), [Superdewd mathematics tutorial](https://algo.is/aflv16/aflv_10_mathematics.pdf), [Thomas Ferguson Game Theory](http://www.math.ucla.edu/~tom/Game_Theory/comb.pdf).
 * Solved [Uva - 11489](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2484). Basic Game Theory problem.
-* Solved [Uva - 11311](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2286). At first I thought this was a dp problem. But it's actually a simple nim game with  $$ O(1) $$  solution.
+* Solved [Uva - 11311](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2286). At first I thought this was a dp problem. But it's actually a simple nim game with $$O(1)$$ solution.
 * Solved [Codeforces 794C](http://codeforces.com/contest/794/problem/C). Greedy
 * Solved [Codeforces 87C](http://codeforces.com/contest/87/problem/C). Grundy
 * Solved [Codechef - PSHTBRTH](https://www.codechef.com/problems/PSHTBRTH) Game Theory, Fenwick.
@@ -47,10 +41,10 @@ keywords: "competitive programming, journal"
 * TODO Solved C and D Large in practice.
 * TODO [Codechef - MODNIM](https://www.codechef.com/BYTR2017/problems/MODNIM)
 * Solved [UVA 1103](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=submit_problem&problemid=3544&category=24) - flood fill
-* Solved [Codeforces 547B](http://codeforces.com/problemset/problem/547/B) -  $$ O(n\log^2n) $$  using binary search and dp gave TLE. Had to find a linear time solution.
+* Solved [Codeforces 547B](http://codeforces.com/problemset/problem/547/B) - $$O(n\log^2n)$$ using binary search and dp gave TLE. Had to find a linear time solution.
 
 #### June 29
-* Solved [SPOJ - SUMMUL](http://www.spoj.com/problems/SUMMUL/) - First problem on Matrix exponentiation. Turns out this can be written in terms of fibonacci sequence.  $$ f(n) = F_{2n} - n $$ 
+* Solved [SPOJ - SUMMUL](http://www.spoj.com/problems/SUMMUL/) - First problem on Matrix exponentiation. Turns out this can be written in terms of fibonacci sequence. $$f(n) = F_{2n} - n$$
 * Solved [Codeforces 431C](http://codeforces.com/problemset/problem/431/C) - DP, trees
 * Solved [Codeforces 429A](http://codeforces.com/problemset/problem/429/A) - trees
 * Solved [Codeforces 533B](http://codeforces.com/problemset/problem/533/B) - dp, trees
@@ -102,17 +96,17 @@ keywords: "competitive programming, journal"
 
 #### July 13
 * Codeforces Round #423 Virtual - Solved A,B,C,D. Rank 54
-* Codeforces Round #424 - ``1652``  $$ \rightarrow $$  ``1715``
+* Codeforces Round #424 - ``1652`` $$\rightarrow$$ ``1715``
 Solved A,B,E.TLE on C because I used map instead of array :(
 Solved C
 
 #### July 15
-* Solved [AtCoder Regular Contest 78](http://arc078.contest.atcoder.jp/) - C (during contest) ``912``  $$ \rightarrow $$  ``995``
+* Solved [AtCoder Regular Contest 78](http://arc078.contest.atcoder.jp/) - C (during contest) ``912`` $$\rightarrow$$ ``995``
 * Solved [AtCoder Regular Contest 78](http://arc078.contest.atcoder.jp/) - E
 * Solved [AtCoder Regular Contest 78](http://arc078.contest.atcoder.jp/) - D
 
 #### July 17
-* Codechef July Long Contest ``1852``  $$ \rightarrow $$  ``1996``
+* Codechef July Long Contest ``1852`` $$\rightarrow$$ ``1996``
 * Solved [Hackerrank Code of Week 34 - Once in a tram](https://www.hackerrank.com/contests/w34/challenges/once-in-a-tram)
 
 #### July 18
@@ -129,22 +123,24 @@ Solved C
 
 #### July 23
 * [HackerEarth IndiaHacks Wildcard](https://www.hackerearth.com/challenge/competitive/indiahacks-2017-programming-qualifier-wildcard/problems/) - Solved 3
-* [Codechef Cook-Off 84](https://www.codechef.com/COOK84) - Solved 3/5 ``1996``  $$ \rightarrow $$  ``2033``
+* [Codechef Cook-Off 84](https://www.codechef.com/COOK84) - Solved 3/5 ``1996`` $$\rightarrow$$ ``2033``
 
 #### July 25
 * Virtual **Codeforces 356 Div. 1** - Solved [679A](http://codeforces.com/contest/679/problem/A)
 * Solved [Codeforces 679B](http://codeforces.com/contest/679/problem/B)
 * Solved [Codeforces 679C](http://codeforces.com/contest/679/problem/C)
-* Team Virtual - WA on test 1 on all 3 attempted -\_-. Turns out we had to use file i/o.
+* Team Virtual - WA on test 1 on all 3 attempted -\_-
 * Solved Topcoder SRM 711 Div 1 Easy
 
 #### July 26
-* CSAcademy Round 39: Solved 4/5, Rank: 7 ``1596``  $$ \rightarrow $$  ``1701``
+* CSAcademy Round 39: Solved 4/5, Rank: 7 ``1596`` $$\rightarrow$$ ``1701``
 * Solved [Uva 10298](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1239) - KMP
 
 #### July 27
 * Team virtual codeforces gym
 * Solved [Uva 11475](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2470) - KMP
+* Solved [UVA 11576](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2623) - KMP
+
 
 ### July 28
 * Solved D of ARC 71, 72, 73, 75.
