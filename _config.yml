@@ -16,7 +16,7 @@ comments: true
 
 # Build settings
 permalink   : /:year/:title/
-markdown    : maruku
+markdown    : kramdown
 highlighter : rouge
 
 source: ./

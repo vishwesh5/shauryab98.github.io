@@ -7,6 +7,7 @@ keywords: "competitive programming, journal"
 use_math: true
 ---
 
+
 #### Ratings
 * Codeforces - ``1652``
 * Codechef - ``1852``
@@ -150,4 +151,19 @@ Solved C
 
 
 ### July 28
-* Solved D of ARC 71, 72, 73, 75.
+* Solved D of ARC 71, 72, 73, 75. [Vjudge ARC D1](https://vjudge.net/contest/173814)
+* Solved D of ARC 76 - MST
+
+#### July 29
+* AtCoder Regular Contest 79 - Solved C,E. ``995`` $\rightarrow$ ``1100``
+* Topcoder Collegiate Contest India 2017 - Solved A and B. ``904`` $\rightarrow$ ``1217``
+
+#### July 30
+* Codeforces Round 426 - Solved 3/5, Rank 68``1715`` $\rightarrow$ ``1847``
+
+#### July 31
+* Codeforces Round 427 - Solved 4/6, Rank 202 ``1847`` $\rightarrow$ ``1881``
+
+--- 
+
+Overall an unexpectedly awesome month. I've gotten extremely close to becoming a candidate master. I was also in the top 10 of the Topcoder collegiate contest India and am excited to attend the India Regionals Event. Hopefully next month will be great too. :P
