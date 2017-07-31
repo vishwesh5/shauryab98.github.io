@@ -162,7 +162,7 @@ Solved C
 * Codeforces Round 426 - Solved 3/5, Rank 68``1715`` $\rightarrow$ ``1847``
 
 #### July 31
-* Codeforces Round 427 - Solved 4/6, Rank 202 ``1847`` $\rightarrow$ ``1881``
+* Codeforces Round 427 - Solved 4/6, Rank 198 ``1847`` $\rightarrow$ ``1882``
 
 --- 
 
