@@ -20,6 +20,7 @@ use_math: true
 
 #### August 2
 * CSAcademy Round 40. Solved 4/5. Already div 1, so starting 50 mins late seemed fine. solved C,D,A,B. Didn't get time for E.
+
 #### August 4
 * Hackerearth July Circuits Solved 6/8 ``1620``
 
@@ -65,7 +66,7 @@ use_math: true
 * Upsolving:
   * [Round 395 Codeforces D](http://codeforces.com/problemset/problem/763/B)
   * [Round 396 Codeforces C](http://codeforces.com/problemset/problem/766/C)
-  
+
 #### August 23
 * Virtual [Codeforces AIM Round 3 Div. 2](http://codeforces.com/contest/709) - Solved 4/5
 * HackerEarth Circuits August 17 - Solved 4
