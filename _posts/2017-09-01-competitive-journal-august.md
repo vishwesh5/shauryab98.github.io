@@ -87,4 +87,4 @@ use_math: true
 #### August 30
 * Codeforces GYM JUST 2017 Team Contest - Solved 12/12 Team Rank 5
 
-Didn't practice much this month but I've finally become pink on CodeForces <3
+Didn't practice much this month but I've finally become purple on CodeForces <3
