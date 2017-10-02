@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Competitive programming journal June - July 2017"
+title: "Competitive programming journal September 2017"
 description: "Journal tracking my competitive programming related activities in September 2017"
 comments: true
 keywords: "competitive programming, journal"
