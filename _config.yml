@@ -9,7 +9,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
+repo: http://github.com/shauryab98/shauryab98.github.io
 disqus_shortname: "shauryab98"
 twitter_username: "shauryab98"
 comments: true
@@ -56,4 +56,7 @@ navbar:
   - slug : blog
     title: Blog
 
+# plugins
+plugins:
+  - jekyll-seo-tag
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
