@@ -8,4 +8,4 @@ Hi! I'm **Shaurya Gupta**, a Junior at IIT Patna. I enjoy competitive programmer
 
 When not coding, I'm usually either watching korean television shows or reading One Piece, Webtoons or novels.
 
-You can contact me by [email](mailto:shauryab98@outlook.com) or on [Facebook](https://www.facebook.com/shauryab98).
+You can contact me on my [Email](mailto:shauryab98@outlook.com), [Twitter](https://twitter.com/SureYeaah) or on [Facebook](https://www.facebook.com/SureYeaah).
