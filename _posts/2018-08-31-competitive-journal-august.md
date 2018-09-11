@@ -13,6 +13,8 @@ use_math: true
 #### August 18
 * [Codeforces Educational Round 49](http://codeforces.com/contest/1027) - Solved 4/7, Rank 224, ``2055`` $\rightarrow$ ``2074``
 
+#### August 27
+* [AIM Tech Round 5](http://codeforces.com/contest/1028) - Solved 2/8, Rank 1590, ``2074`` $\rightarrow$ ``1965``
 
 #### August 31
 * [Atcoder Regular 101](https://beta.atcoder.jp/contests/arc101/tasks) - Solved C
