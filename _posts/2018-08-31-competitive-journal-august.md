@@ -7,11 +7,11 @@ keywords: "competitive programming, journal"
 use_math: true
 ---
 #### August 3
-* [Codeforces Educational Round 48](http://codeforces.com/contest/1016) - Solved 4/7, Rank 239, ``2058`` $rightarrow$ ``2055``
+* [Codeforces Educational Round 48](http://codeforces.com/contest/1016) - Solved 4/7, Rank 239, ``2058`` $\rightarrow$ ``2055``
 
 
 #### August 18
-* [Codeforces Educational Round 49](http://codeforces.com/contest/1027) - Solved 4/7, Rank 224, ``2055`` $rightarrow$ ``2074``
+* [Codeforces Educational Round 49](http://codeforces.com/contest/1027) - Solved 4/7, Rank 224, ``2055`` $\rightarrow$ ``2074``
 
 
 #### August 31
